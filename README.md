@@ -1,4 +1,4 @@
-# GrafanaGenericSimpleJsonDataSource
+# Grafana Generic JsonDataSource .NET CORE WebApi
  .NET Core sample for JSON DataSource for Grafana
 
  This is a basic implementation with a repository for creating a .NET Core API that would work with Grafana
